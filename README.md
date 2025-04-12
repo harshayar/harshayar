@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI, Machine Learning, and Full-Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/your-username](https://github.com/your-username)
+- 👨‍💻 All of my projects are available at [https://github.com/your-username](https://github.com/harshayar)
 
 - 📫 How to reach me **harshhls2262@gmail.com**
 
