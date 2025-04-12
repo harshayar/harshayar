@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **harshhls2262@gmail.com**
 
-- 📄 [📄 Download My Resume](https://github.com/harshayar/harshayar/raw/refs/heads/main/HARSH_KUMAR_RESUME.docx)
+- 📄 [Download My Resume](https://github.com/harshayar/harshayar/raw/refs/heads/main/HARSH_KUMAR_RESUME.docx)
 
 - ⚡ Fun fact: **I write poetry and love web series!**
 
